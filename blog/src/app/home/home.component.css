@@ -1,0 +1,8 @@
+.parallax{
+    background-image: url('https://cdn.pixabay.com/photo/2018/08/04/18/08/origami-3584204_960_720.jpg');
+    min-height: 500px;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

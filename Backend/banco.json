@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "nome": "Meliodas",
+      "mensagem": "Não importa o quanto você se mente, você NUNCA pode enganar o coração"
+    },
+    {
+      "id": 2,
+      "nome": "Shiryu",
+      "mensagem": "Não é a força que se iguala à sabedoria. É nossa sabedoria que se iguala a nossa força "
+    },
+    {
+      "id": 3,
+      "nome": "Naruto",
+      "mensagem": "Eu nunca volto atrás da minha palavra, esse é o meu jeito ninja!"
+    }
+  ]
+}
